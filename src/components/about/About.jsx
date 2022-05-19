@@ -36,14 +36,6 @@ const About = () => {
               <small>3+ Years Working</small>
             </article>
           </div>
-
-          <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Rerum praesentium distinctio laborum laboriosam quia beatae
-            deleniti, repellendus, perferendis aut possimus facilis libero
-            assumenda neque modi? Quae provident commodi veniam aliquid!
-          </p>
-
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
