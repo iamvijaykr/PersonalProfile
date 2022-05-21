@@ -22,7 +22,7 @@ const About = () => {
               <FaAward className='about__icon' />
               <h5>Company</h5>
               <h4>CTS</h4>
-              <small>3+ Years of Working Exper</small>
+              <small>3+ Years of Working Experience</small>
             </article>
 
           </div>
